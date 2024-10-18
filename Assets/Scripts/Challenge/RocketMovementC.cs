@@ -45,7 +45,5 @@ public class RocketMovementC : MonoBehaviour
         var sinTheta = Mathf.Sin(theta);
 
         transform.up = transform.TransformDirection(cosTheta, sinTheta, 0);
-
-        Debug.Log(transform.up);
     }
 }
