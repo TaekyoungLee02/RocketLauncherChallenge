@@ -463,6 +463,9 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   fov: 45
   radius: 10
+  aesteriodLayer:
+    serializedVersion: 2
+    m_Bits: 64
 --- !u!114 &125341266
 MonoBehaviour:
   m_ObjectHideFlags: 0
